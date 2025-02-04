@@ -1,2 +1,1 @@
-# meatricsc.github.io
-meatricsc
+# nasdzi.github.io
